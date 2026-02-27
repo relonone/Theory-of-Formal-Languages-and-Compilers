@@ -1,0 +1,11 @@
+E:\WindowsFormsApp11\bin\Debug\Resources\Create.png
+E:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe.config
+E:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.exe
+E:\WindowsFormsApp11\bin\Debug\WindowsFormsApp11.pdb
+E:\WindowsFormsApp11\obj\Debug\MainGUI.csproj.AssemblyReference.cache
+E:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Form1.resources
+E:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.Properties.Resources.resources
+E:\WindowsFormsApp11\obj\Debug\MainGUI.csproj.GenerateResource.cache
+E:\WindowsFormsApp11\obj\Debug\MainGUI.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.exe
+E:\WindowsFormsApp11\obj\Debug\WindowsFormsApp11.pdb
